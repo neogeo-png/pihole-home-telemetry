@@ -1,0 +1,39 @@
+# Lista equilibrada
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+telemetry.microsoft.com
+watson.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.nsatc.net
+df.telemetry.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+wes.df.telemetry.microsoft.com
+services.wes.df.telemetry.microsoft.com
+feedback.windows.com
+diagnostics.support.microsoft.com
+choice.microsoft.com
+choice.microsoft.com.nsatc.net
+corp.sts.microsoft.com
+statsfe2.update.microsoft.com.akadns.net
+
+# Versión agresiva
+#cs1.wpc.v0cdn.net
+#a-0001.a-msedge.net
+#a-0002.a-msedge.net
+#a-0003.a-msedge.net
+#oca.telemetry.microsoft.com.nsatc.net
+#pre.footprintpredict.com
+#i1.services.social.microsoft.com
+#i1.services.social.microsoft.com.nsatc.net
+
+# Ultra restrictiva
+#windowsupdate.microsoft.com
+#update.microsoft.com
+#download.windowsupdate.com
+#au.download.windowsupdate.com
+#dl.delivery.mp.microsoft.com
+#fe2.update.microsoft.com
+#sls.update.microsoft.com.akadns.net
