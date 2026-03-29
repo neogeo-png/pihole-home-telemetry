@@ -25,6 +25,10 @@ ecs.office.com
 g.bing.com
 services.bingapis.com
 
+# Microsoft Edge
+l-ring.msedge.net
+mcr-ring.msedge.net
+
 # Versión agresiva
 #cs1.wpc.v0cdn.net
 #a-0001.a-msedge.net
