@@ -18,7 +18,6 @@ df.telemetry.microsoft.com
 reports.wes.df.telemetry.microsoft.com
 wes.df.telemetry.microsoft.com
 services.wes.df.telemetry.microsoft.com
-feedback.windows.com
 diagnostics.support.microsoft.com
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
@@ -31,6 +30,7 @@ v10.events.data.microsoft.com
 # Windows
 # ***************************************************************
 activity.windows.com
+feedback.windows.com
 
 # ***************************************************************
 # Office
