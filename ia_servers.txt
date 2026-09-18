@@ -1,0 +1,94 @@
+# =================================================================
+# Lista de bloqueo de IA Generativa para Exámenes (Pi-hole)
+# Asignatura: IAW / Módulos Informática
+# =================================================================
+
+# OpenAI / ChatGPT
+0.0.0.0 chatgpt.com
+0.0.0.0 chat.openai.com
+0.0.0.0 openai.com
+0.0.0.0 cdn.oaistatic.com
+0.0.0.0 oaistatic.com
+0.0.0.0 oaiusercontent.com
+0.0.0.0 api.openai.com
+
+# Anthropic / Claude
+0.0.0.0 claude.ai
+0.0.0.0 anthropic.com
+0.0.0.0 serv.claude.ai
+
+# Google Gemini / Bard
+0.0.0.0 gemini.google.com
+0.0.0.0 bard.google.com
+0.0.0.0 generativeai.googleapis.com
+0.0.0.0 alcora.google.com
+
+# Microsoft Copilot / Bing Chat
+0.0.0.0 copilot.microsoft.com
+0.0.0.0 sydney.bing.com
+0.0.0.0 edgeservices.bing.com
+0.0.0.0 www.bing.com/chat
+
+# GitHub Copilot (Bloqueo en IDEs / VS Code)
+0.0.0.0 copilot-proxy.githubusercontent.com
+0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 api.githubcopilot.com
+0.0.0.0 origin-tracker.githubcopilot.com
+
+# DeepSeek
+0.0.0.0 deepseek.com
+0.0.0.0 chat.deepseek.com
+0.0.0.0 api.deepseek.com
+
+# Perplexity AI
+0.0.0.0 perplexity.ai
+0.0.0.0 www.perplexity.ai
+0.0.0.0 api.perplexity.ai
+
+# Poe (Quora)
+0.0.0.0 poe.com
+0.0.0.0 www.poe.com
+
+# Hugging Face (Chat & Spaces)
+0.0.0.0 huggingface.co
+0.0.0.0 hf.space
+0.0.0.0 chat.huggingface.co
+
+# Mistral AI / Le Chat
+0.0.0.0 mistral.ai
+0.0.0.0 chat.mistral.ai
+0.0.0.0 console.mistral.ai
+
+# You.com
+0.0.0.0 you.com
+0.0.0.0 www.you.com
+
+# Phind (Especializado en código)
+0.0.0.0 phind.com
+0.0.0.0 www.phind.com
+
+# Blackbox AI (Especializado en código)
+0.0.0.0 blackbox.ai
+0.0.0.0 www.blackbox.ai
+
+# Cursor AI (Comunicaciones del IDE)
+0.0.0.0 cursor.sh
+0.0.0.0 api2.cursor.sh
+
+# Replit AI
+0.0.0.0 replit.com
+0.0.0.0 ai.replit.com
+
+# Midjourney & DALL-E / Generadores de imagen
+0.0.0.0 midjourney.com
+0.0.0.0 www.midjourney.com
+0.0.0.0 discord.gg/midjourney
+
+# Jasper / Copy.ai / WriteSonic
+0.0.0.0 jasper.ai
+0.0.0.0 copy.ai
+0.0.0.0 writesonic.com
+
+# Ollama / Local AI APIs (Por si usan túneles externos)
+0.0.0.0 ollama.ai
+0.0.0.0 ollama.com
